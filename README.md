@@ -5,7 +5,7 @@ Este projeto foi criado para realizarmos a documentação dos questionamentos ge
 
 ----------------------------------------------------
 
-## Como criar um questionamento?
+## Está com dúvida? Siga os passos abaixo.
 
 * **Passo 1** : Acesse o link : https://github.com/sganderla/questionamentos/issues
 * **Passo 2** : Clicke no botão `New issue`
