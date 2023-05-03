@@ -16,7 +16,7 @@ Este projeto foi criado para realizarmos a documentação dos questionamentos ge
 
 ----------------------------------------------------
 
-#### As issues abertas são aquelas que estão sobre revisão, são aquelas que ainda não foi adicionado respostas ao questionamento;
+#### As issues abertas são aquelas que estão sobre revisão, ou seja, são aquelas que ainda não foram respondidas;
 
 - 📫 [Issues Abertas](https://github.com/sganderla/questionamentos/issues)
 
